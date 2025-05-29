@@ -1,5 +1,3 @@
-# Agro.IA
-
 # Conexão Viva: Campo e Cidade Juntos
 
 Este projeto foi desenvolvido para o Concurso Agrinho 2025, na categoria HTML e CSS.
