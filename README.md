@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para o Concurso Agrinho 2025, na categoria HTML e 
 Um site que celebra a relação entre campo e cidade, com animações, depoimentos e uma IA simulada com HTML e CSS.
 
 ## Acesso
-(https://guilhermesanti404.github.io/Agro..IA/)
+(https://guilhermesanti404.github.io/Conex-o.Viva/)
 
 ## Desenvolvido por
 - Guilherme Santi
